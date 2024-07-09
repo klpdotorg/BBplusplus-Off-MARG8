@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "marbbplusplusg8.jks",
+            "storePassword": "marbbplusplusg8",
+            "alias": "marbbplusplusg8",
+            "password": "marbbplusplusg8",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "marbbplusplusg8.jks",
+            "storePassword": "marbbplusplusg8",
+            "alias": "marbbplusplusg8",
+            "password": "marbbplusplusg8",
+            "keystoreType": "jks"
+        }
+    }
+}
